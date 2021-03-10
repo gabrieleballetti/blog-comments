@@ -1,1 +1,1 @@
-# gabrieleballetti.gitlab.io
+Just an empty repo to allow [utterances](https://utteranc.es/) to read/post comments to issues which are used as comments for [my static site hosted on gitlab](https://gabrieleballetti.gitlab.io/). [Gitlab APIs do (did?) not allow to search issues without authentication](https://github.com/utterance/utterances/issues/240), so I'm stuck with Github for the moment.
